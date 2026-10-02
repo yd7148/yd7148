@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,235,0.28,157,211,0.25,212,56,0.20&animation=fadeIn&fontSize=42&fontColor=ffffff&desc=SiC+Smart+Manufacturing+Engineer&descAlign=center&descAlignY=62&animationScale=90" width="100%" alt="Shih-Chen Liu" />
 
@@ -151,7 +151,7 @@
 
 | | |
 |---|---|
-| 🌐 Portfolio | <https://yd7148.github.io/cv1/> |
+| 🌐 Portfolio | <https://yd7148.github.io/cv3/> |
 | 📚 Skills | <https://github.com/yd7148/OpenCode_skill> |
 
 <br>
