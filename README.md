@@ -52,9 +52,9 @@
 
 | Repo | 說明 |
 |---|---|
-| ✨ [yd7148-v3](https://github.com/yd7148/yd7148-v3) | Portfolio v3 — dark glass 主題，雙語 side-by-side 首頁 |
-| 🎨 [yd7148-v2](https://github.com/yd7148/yd7148-v2) | Portfolio v2 — 單頁 + sticky sidebar，periwinkle 配色 |
-| 🌱 [yd7148](https://github.com/yd7148/yd7148) | Portfolio v1 — Astro 7 + Tailwind v4，雙語、可印 A4 履歷 |
+| ✨ [cv3](https://github.com/yd7148/cv3) | Portfolio v3 — dark glass 主題，雙語 side-by-side 首頁 |
+| 🎨 [cv2](https://github.com/yd7148/cv2) | Portfolio v2 — 單頁 + sticky sidebar，periwinkle 配色 |
+| 🌱 [cv1](https://github.com/yd7148/cv1) | Portfolio v1 — Astro 7 + Tailwind v4，雙語、可印 A4 履歷 |
 
 ## 📚 OpenCode Skills 收藏庫
 
