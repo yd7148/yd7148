@@ -1,4 +1,4 @@
-﻿# Hi, I'm 劉士禎 / Shih-Chen Liu 👋
+# Hi, I'm 劉士禎 / Shih-Chen Liu 👋
 
 ### 🔬 SiC 第三代半導體｜智慧製造工程師
 
