@@ -14,7 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs and push to output branch
+      - name: Checkout main (to keep history)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -22,3 +27,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=38bdf8&color_dots=0e7490,0891b2,06b6d4,22d3ee,67e8f9
+
+      - name: Commit snake animations to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "update contribution snake animations"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
