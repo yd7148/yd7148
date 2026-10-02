@@ -51,11 +51,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/yd7148/yd7148/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/yd7148/yd7148/output/github-contribution-grid-snake.svg" alt="snake light" />
   <br>
-  <img width="100%" src="https://raw.githubusercontent.com/yd7148/yd7148/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake dark" />
+  <img width="100%" src="https://raw.githubusercontent.com/yd7148/yd7148/output/github-contribution-grid-snake-dark.svg" alt="snake dark" />
   <br>
-  <img width="400" src="https://raw.githubusercontent.com/yd7148/yd7148/output/ocean.gif?color_snake=38bdf8&color_dots=%230e7490,%230891b2,%2306b6d4,%2322d3ee,%2367e8f9" alt="ocean snake" />
+  <img width="420" src="https://raw.githubusercontent.com/yd7148/yd7148/output/ocean.gif" alt="ocean snake" />
 </p>
 
 > 蛇蛇每 6 小時會自己爬一次貢獻格。由 [Platane/snk](https://github.com/Platane/snk) 產生。
