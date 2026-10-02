@@ -1,14 +1,20 @@
-﻿<div align="center">
+﻿# Hi, I'm 劉士禎 / Shih-Chen Liu 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,42,84,0.35,112,165,253,0.32,56,189,174,0.28,191,145,243,0.24&animation=fadeIn&fontSize=42&fontColor=ffffff&desc=SiC+Smart+Manufacturing+Engineer&descAlign=center&descAlignY=62&animationScale=90" width="100%" alt="Shih-Chen Liu" />
+### 🔬 SiC 第三代半導體｜智慧製造工程師
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=620&lines=COMSOL+%E6%A8%A1%E6%93%AC%E5%88%86%E6%9E%90+%E7%88%B1%E5%A5%BD%E8%80%85;opencode+agent+%E9%87%8D%E5%BA%A6%E4%BD%BF%E7%94%A8%E8%80%85;Automation+%2B+AI+%2B+%E5%B7%A5%E7%A8%8B;Let%27s+automate+our+lives!" alt="Typing intro" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;SiC+%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%8D%8A%E5%B0%8E%E9%AB%94+%E6%99%BA%E6%85%A7%E8%A3%BD%E9%80%A0+%E5%B7%A5%E7%A8%8B%E5%B8%AB;COMSOL+%E6%A8%A1%E6%93%AC%E5%88%86%E6%9E%90+%E7%88%B1%E5%A5%BD%E8%80%85;opencode+agent+%E9%87%8D%E5%BA%A6%E4%BD%BF%E7%94%A8%E8%80%85" alt="Typing intro" />
-
-<br>
-
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yd7148&theme=tokyonight)](https://github.com/yd7148)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yd7148&theme=transparent" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yd7148&theme=default" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yd7148&theme=default" alt="Profile Summary" />
+  </picture>
+</p>
 
 </div>
 
@@ -41,13 +47,31 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=yd7148&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yd7148&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yd7148&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yd7148&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=yd7148&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yd7148&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yd7148&layout=compact&langs_count=8&theme=default&hide_border=true" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yd7148&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" />
+  </picture>
 </p>
 
+<br>
+
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/repos-per-language?username=yd7148&theme=tokyonight&hide_border=true" alt="Repos per language" />
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yd7148&theme=tokyonight" alt="Repos per language card" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yd7148&layout=donut&langs_count=8&theme=transparent&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yd7148&layout=donut&langs_count=8&theme=default&hide_border=true" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yd7148&layout=donut&langs_count=8&theme=default&hide_border=true" alt="Language distribution" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yd7148&theme=transparent" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yd7148&theme=default" />
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yd7148&theme=default" alt="Repos per language card" />
+  </picture>
 </p>
 
 <br>
@@ -55,11 +79,15 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/yd7148/yd7148/output/github-contribution-grid-snake.svg" alt="snake light" />
-  <br>
-  <img width="100%" src="https://raw.githubusercontent.com/yd7148/yd7148/output/github-contribution-grid-snake-dark.svg" alt="snake dark" />
-  <br>
-  <img width="420" src="https://raw.githubusercontent.com/yd7148/yd7148/output/ocean.gif" alt="ocean snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yd7148/yd7148/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yd7148/yd7148/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/yd7148/yd7148/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+<p align="center">
+  <img width="420" src="https://raw.githubusercontent.com/yd7148/yd7148/output/ocean.gif" alt="Contribution ocean" />
 </p>
 
 > 蛇蛇每 6 小時會自己爬一次貢獻格。由 [Platane/snk](https://github.com/Platane/snk) 產生。
@@ -83,10 +111,18 @@
 
 <p align="center">
   <a href="https://github.com/yd7148/OpenCode_skill">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=yd7148&repo=OpenCode_skill&theme=tokyonight&hide_border=true" alt="OpenCode_skill" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yd7148&repo=OpenCode_skill&theme=transparent&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yd7148&repo=OpenCode_skill&theme=default&hide_border=true" />
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=yd7148&repo=OpenCode_skill&theme=default&hide_border=true" alt="OpenCode_skill" />
+    </picture>
   </a>
   <a href="https://github.com/yd7148/cv3">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=yd7148&repo=cv3&theme=tokyonight&hide_border=true" alt="cv3" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yd7148&repo=cv3&theme=transparent&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=yd7148&repo=cv3&theme=default&hide_border=true" />
+      <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=yd7148&repo=cv3&theme=default&hide_border=true" alt="cv3" />
+    </picture>
   </a>
 </p>
 
@@ -161,7 +197,7 @@
 <br>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=yd7148&label=Visitors&countColor=%2370A5FD" alt="Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=yd7148&label=Visitors&countColor=%232563EB" alt="Visitors" />
   <br>
   <sub>Made with curiosity by an engineer who automates his own busywork.</sub>
 </p>
