@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,235,0.28,157,211,0.25,212,56,0.20&animation=fadeIn&fontSize=42&fontColor=ffffff&desc=SiC+Smart+Manufacturing+Engineer&descAlign=center&descAlignY=62&animationScale=90" width="100%" alt="Shih-Chen Liu" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,42,84,0.35,112,165,253,0.32,56,189,174,0.28,191,145,243,0.24&animation=fadeIn&fontSize=42&fontColor=ffffff&desc=SiC+Smart+Manufacturing+Engineer&descAlign=center&descAlignY=62&animationScale=90" width="100%" alt="Shih-Chen Liu" />
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yd7148&theme=github_dark)](https://github.com/yd7148)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yd7148&theme=tokyonight)](https://github.com/yd7148)
 
 </div>
 
@@ -29,7 +29,11 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,git,github,vscode,astro,tailwind,html,css,js,nodejs,md,playwright" alt="Tech stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,bash,powershell,git,github,vscode,astro,tailwind,html,css,js,nodejs,md,playwright&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,bash,powershell,git,github,vscode,astro,tailwind,html,css,js,nodejs,md,playwright" />
+    <img src="https://skillicons.dev/icons?i=python,bash,powershell,git,github,vscode,astro,tailwind,html,css,js,nodejs,md,playwright&theme=dark" alt="Tech stack" />
+  </picture>
 </p>
 
 <br>
@@ -43,7 +47,7 @@
 
 <p align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api/repos-per-language?username=yd7148&theme=tokyonight&hide_border=true" alt="Repos per language" />
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yd7148&theme=github_dark" alt="Repos per language card" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yd7148&theme=tokyonight" alt="Repos per language card" />
 </p>
 
 <br>
@@ -157,7 +161,7 @@
 <br>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=yd7148&label=Visitors&countColor=%2338BDF8" alt="Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=yd7148&label=Visitors&countColor=%2370A5FD" alt="Visitors" />
   <br>
   <sub>Made with curiosity by an engineer who automates his own busywork.</sub>
 </p>
